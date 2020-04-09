@@ -1,0 +1,10 @@
+﻿The aim of this project is to find suitable locations to open a gym in New York, USA. One of
+the main requirements to open a new gym is that it should be easily accessible by customers
+and it should be located near a metro station. As New York is known as city of dreams, it is
+very important to eliminate any kind of competition in order to flourish the business. So, we
+also look into the number of gyms already existing in an area before setting up Gym. This
+project can be utilized by any stakeholders/entrepreneur who would want to set up their
+business in a new city. It can serve as stepping stone to start their business. To achieve the
+above mentioned tasks, python geolocation libraries will used along with the Foursquare API.
+Also, in order to create clusters of similar candidate locations, the K-means machine learning
+clustering algorithm will be used.
